@@ -11,7 +11,7 @@ Este proyecto es un script de Python diseñado para extraer información de la A
     Inserción de datos en la base de datos con manejo de duplicados.
     Transformación y normalización de datos (traducción de especies y estados).
 
-## Requisitos:
+# Requisitos:
 
 ### Python 3.x
 
