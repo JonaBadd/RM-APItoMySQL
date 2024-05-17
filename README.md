@@ -13,10 +13,21 @@ Este proyecto es un script de Python diseñado para extraer información de la A
 
 ## Requisitos:
 
-    Python 3.x
+### Python 3.x
+
     Biblioteca requests
     Modulo mysql.connector
-    MySQL Workbench 8.0
+    
+### MySQL Workbench 8.0
+> Nota: Antes de ejecutar el scrip en python asegurate de crear una tabla llamada personajes, con id, nombre, especie y estado. Si no sabes como crearla aqui te dejo el Script SQL para la creación de la tabla personajes.
+
+    CREATE TABLE `personajes` (
+      `id` int NOT NULL AUTO_INCREMENT,
+      `nombre` varchar(255) DEFAULT NULL,
+      `especie` varchar(255) DEFAULT NULL,
+      `estado` varchar(255) DEFAULT NULL,
+      PRIMARY KEY (`id`)
+    );
 
 ## Cómo usar:
 
