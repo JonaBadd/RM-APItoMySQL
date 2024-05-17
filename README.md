@@ -14,8 +14,9 @@ Este proyecto es un script de Python diseñado para extraer información de la A
 ## Requisitos:
 
     Python 3.x
-    requests
-    mysql-connector-python
+    Biblioteca requests
+    Modulo mysql.connector
+    MySQL Workbench 8.0
 
 ## Cómo usar:
 
