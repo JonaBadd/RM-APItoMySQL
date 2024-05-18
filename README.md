@@ -19,7 +19,7 @@ Este proyecto es un script de Python diseñado para extraer información de la A
     Modulo mysql.connector
     
 ### MySQL Workbench 8.0
-> Nota: Antes de ejecutar el script en python asegurate de crear una tabla llamada personajes, con id, nombre, especie y estado. Si no sabes como crearla aqui te dejo el Script SQL para la creación de la tabla personajes.
+> Nota: Antes de ejecutar el script en python asegurate de crear una tabla llamada personajes con: id, nombre, especie y estado. Si no sabes como crearla aqui te dejo el Script SQL para la creación de la tabla personajes.
 
     CREATE TABLE `personajes` (
       `id` int NOT NULL AUTO_INCREMENT,
