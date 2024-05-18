@@ -18,7 +18,7 @@ Este proyecto es un script de Python diseñado para extraer información de la A
     Biblioteca requests
     Modulo mysql.connector
 
-![](https://i.ibb.co/JjmFyZJ/python-1.gif)
+![](https://s4.ezgif.com/tmp/ezgif-4-78f91ab7eb.gif)
     
 ### MySQL Workbench 8.0
 > Nota: Antes de ejecutar el script en python asegurate de crear una tabla llamada personajes con: id, nombre, especie y estado. Si no sabes como crearla aqui te dejo el Script SQL para la creación de la tabla personajes.
