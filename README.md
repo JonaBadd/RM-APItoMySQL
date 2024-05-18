@@ -29,7 +29,7 @@ Este proyecto es un script de Python diseñado para extraer información de la A
       PRIMARY KEY (`id`)
     );
 
-## Cómo usar:
+# Cómo usar:
 
     Clona el repositorio.
     Configura las credenciales de tu base de datos MySQL en el script.
