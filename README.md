@@ -38,3 +38,8 @@ Este proyecto es un script de Python diseñado para extraer información de la A
     Clona el repositorio.
     Configura las credenciales de tu base de datos MySQL en el script.
     Ejecuta el script para poblar la base de datos con la información de "Rick and Morty".
+
+# Comandos adicionales:
+
+    $pip3 install requests
+    $pip3 install mysql-connector-python
