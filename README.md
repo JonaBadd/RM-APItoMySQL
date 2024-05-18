@@ -29,6 +29,8 @@ Este proyecto es un script de Python diseñado para extraer información de la A
       PRIMARY KEY (`id`)
     );
 
+![](https://s6.ezgif.com/tmp/ezgif-6-45093ff0a2.gif)
+
 # Cómo usar:
 
     Clona el repositorio.
