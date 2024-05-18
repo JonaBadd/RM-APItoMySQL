@@ -29,7 +29,7 @@ Este proyecto es un script de Python diseñado para extraer información de la A
       PRIMARY KEY (`id`)
     );
 
-![](https://s6.ezgif.com/tmp/ezgif-6-45093ff0a2.gif)
+![](https://s4.ezgif.com/tmp/ezgif-4-1ef8ea6545.gif)
 
 # Cómo usar:
 
